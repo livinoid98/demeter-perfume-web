@@ -1,0 +1,22 @@
+webpackHotUpdate_N_E("pages/_app",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./node_modules/resolve-url-loader/index.js?!./node_modules/sass-loader/dist/cjs.js?!./pages/gift.scss":
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./pages/gift.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".gift_wrap {\n  width: 1200px;\n  margin: 0 auto; }\n  .gift_wrap .side_menu {\n    width: 200px;\n    height: 100%;\n    background-color: red;\n    float: left; }\n  .gift_wrap .gift_main {\n    width: 1000px;\n    float: left; }\n", "",{"version":3,"sources":["C:/Users/ccy98/Desktop/Demeter/front/pages/gift.scss"],"names":[],"mappings":"AAAA;EACI,aAAY;EACZ,cAAa,EAAA;EAFjB;IAIQ,YAAW;IACX,YAAW;IACX,qBAAoB;IACpB,WAAU,EAAA;EAPlB;IAUQ,aAAY;IACZ,WAAU,EAAA","file":"gift.scss","sourcesContent":[".gift_wrap{\r\n    width:1200px;\r\n    margin:0 auto;\r\n    .side_menu{\r\n        width:200px;\r\n        height:100%;\r\n        background-color:red;\r\n        float:left;\r\n    }\r\n    .gift_main{\r\n        width:1000px;\r\n        float:left;\r\n    }\r\n}\r\n"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvZ2lmdC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQ0Esa0NBQWtDLG1CQUFPLENBQUMscUdBQWdEO0FBQzFGO0FBQ0E7QUFDQSxjQUFjLFFBQVMsZUFBZSxrQkFBa0IsbUJBQW1CLEVBQUUsMkJBQTJCLG1CQUFtQixtQkFBbUIsNEJBQTRCLGtCQUFrQixFQUFFLDJCQUEyQixvQkFBb0Isa0JBQWtCLEVBQUUsU0FBUywyR0FBMkcsVUFBVSxlQUFlLE1BQU0sVUFBVSxVQUFVLFlBQVksZ0JBQWdCLE1BQU0sVUFBVSxpRUFBaUUscUJBQXFCLHNCQUFzQixtQkFBbUIsd0JBQXdCLHdCQUF3QixpQ0FBaUMsdUJBQXVCLFNBQVMsbUJBQW1CLHlCQUF5Qix1QkFBdUIsU0FBUyxLQUFLLE9BQU87QUFDNXhCO0FBQ0EiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvX2FwcC5kY2M0MWU4ZjczODk5N2NkMjExMy5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gSW1wb3J0c1xudmFyIF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyA9IHJlcXVpcmUoXCIuLi9ub2RlX21vZHVsZXMvY3NzLWxvYWRlci9kaXN0L3J1bnRpbWUvYXBpLmpzXCIpO1xuZXhwb3J0cyA9IF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyh0cnVlKTtcbi8vIE1vZHVsZVxuZXhwb3J0cy5wdXNoKFttb2R1bGUuaWQsIFwiLmdpZnRfd3JhcCB7XFxuICB3aWR0aDogMTIwMHB4O1xcbiAgbWFyZ2luOiAwIGF1dG87IH1cXG4gIC5naWZ0X3dyYXAgLnNpZGVfbWVudSB7XFxuICAgIHdpZHRoOiAyMDBweDtcXG4gICAgaGVpZ2h0OiAxMDAlO1xcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7XFxuICAgIGZsb2F0OiBsZWZ0OyB9XFxuICAuZ2lmdF93cmFwIC5naWZ0X21haW4ge1xcbiAgICB3aWR0aDogMTAwMHB4O1xcbiAgICBmbG9hdDogbGVmdDsgfVxcblwiLCBcIlwiLHtcInZlcnNpb25cIjozLFwic291cmNlc1wiOltcIkM6L1VzZXJzL2NjeTk4L0Rlc2t0b3AvRGVtZXRlci9mcm9udC9wYWdlcy9naWZ0LnNjc3NcIl0sXCJuYW1lc1wiOltdLFwibWFwcGluZ3NcIjpcIkFBQUE7RUFDSSxhQUFZO0VBQ1osY0FBYSxFQUFBO0VBRmpCO0lBSVEsWUFBVztJQUNYLFlBQVc7SUFDWCxxQkFBb0I7SUFDcEIsV0FBVSxFQUFBO0VBUGxCO0lBVVEsYUFBWTtJQUNaLFdBQVUsRUFBQVwiLFwiZmlsZVwiOlwiZ2lmdC5zY3NzXCIsXCJzb3VyY2VzQ29udGVudFwiOltcIi5naWZ0X3dyYXB7XFxyXFxuICAgIHdpZHRoOjEyMDBweDtcXHJcXG4gICAgbWFyZ2luOjAgYXV0bztcXHJcXG4gICAgLnNpZGVfbWVudXtcXHJcXG4gICAgICAgIHdpZHRoOjIwMHB4O1xcclxcbiAgICAgICAgaGVpZ2h0OjEwMCU7XFxyXFxuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOnJlZDtcXHJcXG4gICAgICAgIGZsb2F0OmxlZnQ7XFxyXFxuICAgIH1cXHJcXG4gICAgLmdpZnRfbWFpbntcXHJcXG4gICAgICAgIHdpZHRoOjEwMDBweDtcXHJcXG4gICAgICAgIGZsb2F0OmxlZnQ7XFxyXFxuICAgIH1cXHJcXG59XFxyXFxuXCJdfV0pO1xuLy8gRXhwb3J0c1xubW9kdWxlLmV4cG9ydHMgPSBleHBvcnRzO1xuIl0sInNvdXJjZVJvb3QiOiIifQ==

@@ -1,0 +1,70 @@
+.collaborate_main{
+    width:1200px;
+    height:479px;
+    margin:0 auto;
+    position:relative;
+    img{
+        position:absolute;
+        &:nth-child(1){
+            top:119px;
+            left:77px;
+        }
+        &:nth-child(2){
+            left:436px;
+        }
+    }
+}
+
+.benefit{
+    width:1200px;
+    height:375px;
+    margin:0 auto;
+    position:relative;
+    img{
+        position:absolute;
+        &:nth-child(1){
+            top:102px;
+            left:296px;
+        }
+        &:nth-child(2){
+            top:44px;
+            left:600px;
+        }
+        &:nth-child(3){
+            top:138px;
+        }
+        &:nth-child(4){
+            left:701px;
+        }
+    }
+}
+
+.illust_collabo{
+    width:1200px;
+    height:818px;
+    margin:0 auto;
+    position:relative;
+    img{
+        position:absolute;
+        &:nth-child(1){
+            top:76px;
+            left:118px;
+        }
+        &:nth-child(2){
+            top:232px;
+            left:600px;
+            cursor:pointer;
+        }
+        &:nth-child(3){
+            left:700px;
+        }
+        &:nth-child(4){
+            top:392px;
+            left:213px;
+        }
+        &:nth-child(5){
+            top:392px;
+            left:538px;
+        }
+    }
+}

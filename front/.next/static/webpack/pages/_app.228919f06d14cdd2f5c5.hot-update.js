@@ -1,0 +1,22 @@
+webpackHotUpdate_N_E("pages/_app",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./node_modules/resolve-url-loader/index.js?!./node_modules/sass-loader/dist/cjs.js?!./pages/gift.scss":
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./pages/gift.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".gift_wrap {\n  width: 1200px;\n  margin: 0 auto; }\n  .gift_wrap .side_menu {\n    width: 200px;\n    height: 100%;\n    background-color: red;\n    float: left; }\n  .gift_wrap .gift_main {\n    float: left; }\n", "",{"version":3,"sources":["C:/Users/ccy98/Desktop/Demeter/front/pages/gift.scss"],"names":[],"mappings":"AAAA;EACI,aAAY;EACZ,cAAa,EAAA;EAFjB;IAIQ,YAAW;IACX,YAAW;IACX,qBAAoB;IACpB,WAAU,EAAA;EAPlB;IAUQ,WAAU,EAAA","file":"gift.scss","sourcesContent":[".gift_wrap{\r\n    width:1200px;\r\n    margin:0 auto;\r\n    .side_menu{\r\n        width:200px;\r\n        height:100%;\r\n        background-color:red;\r\n        float:left;\r\n    }\r\n    .gift_main{\r\n        float:left;\r\n    }\r\n}\r\n"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvZ2lmdC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQ0Esa0NBQWtDLG1CQUFPLENBQUMscUdBQWdEO0FBQzFGO0FBQ0E7QUFDQSxjQUFjLFFBQVMsZUFBZSxrQkFBa0IsbUJBQW1CLEVBQUUsMkJBQTJCLG1CQUFtQixtQkFBbUIsNEJBQTRCLGtCQUFrQixFQUFFLDJCQUEyQixrQkFBa0IsRUFBRSxTQUFTLDJHQUEyRyxVQUFVLGVBQWUsTUFBTSxVQUFVLFVBQVUsWUFBWSxnQkFBZ0IsTUFBTSxpRUFBaUUscUJBQXFCLHNCQUFzQixtQkFBbUIsd0JBQXdCLHdCQUF3QixpQ0FBaUMsdUJBQXVCLFNBQVMsbUJBQW1CLHVCQUF1QixTQUFTLEtBQUssT0FBTztBQUNydUI7QUFDQSIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9wYWdlcy9fYXBwLjIyODkxOWYwNmQxNGNkZDJmNWM1LmhvdC11cGRhdGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBJbXBvcnRzXG52YXIgX19fQ1NTX0xPQURFUl9BUElfSU1QT1JUX19fID0gcmVxdWlyZShcIi4uL25vZGVfbW9kdWxlcy9jc3MtbG9hZGVyL2Rpc3QvcnVudGltZS9hcGkuanNcIik7XG5leHBvcnRzID0gX19fQ1NTX0xPQURFUl9BUElfSU1QT1JUX19fKHRydWUpO1xuLy8gTW9kdWxlXG5leHBvcnRzLnB1c2goW21vZHVsZS5pZCwgXCIuZ2lmdF93cmFwIHtcXG4gIHdpZHRoOiAxMjAwcHg7XFxuICBtYXJnaW46IDAgYXV0bzsgfVxcbiAgLmdpZnRfd3JhcCAuc2lkZV9tZW51IHtcXG4gICAgd2lkdGg6IDIwMHB4O1xcbiAgICBoZWlnaHQ6IDEwMCU7XFxuICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDtcXG4gICAgZmxvYXQ6IGxlZnQ7IH1cXG4gIC5naWZ0X3dyYXAgLmdpZnRfbWFpbiB7XFxuICAgIGZsb2F0OiBsZWZ0OyB9XFxuXCIsIFwiXCIse1widmVyc2lvblwiOjMsXCJzb3VyY2VzXCI6W1wiQzovVXNlcnMvY2N5OTgvRGVza3RvcC9EZW1ldGVyL2Zyb250L3BhZ2VzL2dpZnQuc2Nzc1wiXSxcIm5hbWVzXCI6W10sXCJtYXBwaW5nc1wiOlwiQUFBQTtFQUNJLGFBQVk7RUFDWixjQUFhLEVBQUE7RUFGakI7SUFJUSxZQUFXO0lBQ1gsWUFBVztJQUNYLHFCQUFvQjtJQUNwQixXQUFVLEVBQUE7RUFQbEI7SUFVUSxXQUFVLEVBQUFcIixcImZpbGVcIjpcImdpZnQuc2Nzc1wiLFwic291cmNlc0NvbnRlbnRcIjpbXCIuZ2lmdF93cmFwe1xcclxcbiAgICB3aWR0aDoxMjAwcHg7XFxyXFxuICAgIG1hcmdpbjowIGF1dG87XFxyXFxuICAgIC5zaWRlX21lbnV7XFxyXFxuICAgICAgICB3aWR0aDoyMDBweDtcXHJcXG4gICAgICAgIGhlaWdodDoxMDAlO1xcclxcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjpyZWQ7XFxyXFxuICAgICAgICBmbG9hdDpsZWZ0O1xcclxcbiAgICB9XFxyXFxuICAgIC5naWZ0X21haW57XFxyXFxuICAgICAgICBmbG9hdDpsZWZ0O1xcclxcbiAgICB9XFxyXFxufVxcclxcblwiXX1dKTtcbi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0gZXhwb3J0cztcbiJdLCJzb3VyY2VSb290IjoiIn0=

@@ -1,0 +1,105 @@
+.cs_main{
+    width:100%;
+    height:420px;
+    background-image:url('/img/cs_main_img.png');
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.faq{
+    width:1200px;
+    margin:0 auto;
+    .faq_title{
+        margin-top:60px;
+        font-size:16px;
+        font-weight:500;
+        color:#727272;
+        text-align:center;
+    }
+    .faq_content{
+        width:1100px;
+        margin:0 auto;
+        margin-top:44px;
+        text-align:center;
+        table{
+            width:1100px;
+            td{
+                padding:18px;
+                &:nth-child(1){
+                    width:70px;
+                }
+                &:nth-child(2){
+                    width:680px;
+                }
+                &:nth-child(3){
+                    width:120px;
+                }
+                &:nth-child(4){
+                    width:120px;
+                }
+                &:nth-child(5){
+                    width:110px;
+                }
+            }
+            thead{
+                font-size:14px;
+                font-weight:500;
+                color:#353535;
+                border-top:3px solid #727272;
+                td{
+                    padding:19px;
+                }
+            }
+            tbody{
+                font-size:12px;
+                font-weight:300;
+                color:#000000;
+                tr{
+                    border-top:1px solid #cccccc;
+                }
+            }
+        }
+        .find{
+            float:left;
+            margin-top:25px;
+            select,input,button{
+                float:left;
+            }
+            select{
+                width:70px;
+                height:35px;
+                border:1px solid #d5d5d5;
+            }
+            input{
+                width:180px;
+                height:31px;
+                border:1px solid #d5d5d5;
+                margin-left:5px;
+            }
+            button{
+                width:60px;
+                height:35px;
+                background-color:#3c3c3c;
+                border:none;
+                margin-left:5px;
+                font-size:12px;
+                font-weight:300;
+                color:#e6f9e0;
+                cursor:pointer;
+            }
+        }
+        .submit{
+            width:90px;
+            height:35px;
+            background-color:#3c3c3c;
+            float:right;
+            margin-top:25px;
+            margin-bottom:86px;
+            border:none;
+            font-size:12px;
+            font-weight:300;
+            color:#e6f9e0;
+            cursor:pointer;
+        }
+    }
+}

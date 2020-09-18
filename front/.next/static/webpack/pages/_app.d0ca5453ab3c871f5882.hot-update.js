@@ -1,0 +1,22 @@
+webpackHotUpdate_N_E("pages/_app",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./node_modules/resolve-url-loader/index.js?!./node_modules/sass-loader/dist/cjs.js?!./pages/gift.scss":
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-6-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./node_modules/resolve-url-loader??ref--5-oneOf-6-3!./node_modules/sass-loader/dist/cjs.js??ref--5-oneOf-6-4!./pages/gift.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".side_menu {\n  width: 200px;\n  height: 2600px;\n  background-color: red; }\n", "",{"version":3,"sources":["C:/Users/ccy98/Desktop/Demeter/front/pages/gift.scss"],"names":[],"mappings":"AAAA;EACI,YAAW;EACX,cAAa;EACb,qBAAoB,EAAA","file":"gift.scss","sourcesContent":[".side_menu{\r\n    width:200px;\r\n    height:2600px;\r\n    background-color:red;\r\n}"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvZ2lmdC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQ0Esa0NBQWtDLG1CQUFPLENBQUMscUdBQWdEO0FBQzFGO0FBQ0E7QUFDQSxjQUFjLFFBQVMsZUFBZSxpQkFBaUIsbUJBQW1CLDBCQUEwQixFQUFFLFNBQVMsMkdBQTJHLFVBQVUsVUFBVSxtRUFBbUUsb0JBQW9CLHNCQUFzQiw2QkFBNkIsS0FBSyxHQUFHO0FBQ2hZO0FBQ0EiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvX2FwcC5kMGNhNTQ1M2FiM2M4NzFmNTg4Mi5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gSW1wb3J0c1xudmFyIF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyA9IHJlcXVpcmUoXCIuLi9ub2RlX21vZHVsZXMvY3NzLWxvYWRlci9kaXN0L3J1bnRpbWUvYXBpLmpzXCIpO1xuZXhwb3J0cyA9IF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyh0cnVlKTtcbi8vIE1vZHVsZVxuZXhwb3J0cy5wdXNoKFttb2R1bGUuaWQsIFwiLnNpZGVfbWVudSB7XFxuICB3aWR0aDogMjAwcHg7XFxuICBoZWlnaHQ6IDI2MDBweDtcXG4gIGJhY2tncm91bmQtY29sb3I6IHJlZDsgfVxcblwiLCBcIlwiLHtcInZlcnNpb25cIjozLFwic291cmNlc1wiOltcIkM6L1VzZXJzL2NjeTk4L0Rlc2t0b3AvRGVtZXRlci9mcm9udC9wYWdlcy9naWZ0LnNjc3NcIl0sXCJuYW1lc1wiOltdLFwibWFwcGluZ3NcIjpcIkFBQUE7RUFDSSxZQUFXO0VBQ1gsY0FBYTtFQUNiLHFCQUFvQixFQUFBXCIsXCJmaWxlXCI6XCJnaWZ0LnNjc3NcIixcInNvdXJjZXNDb250ZW50XCI6W1wiLnNpZGVfbWVudXtcXHJcXG4gICAgd2lkdGg6MjAwcHg7XFxyXFxuICAgIGhlaWdodDoyNjAwcHg7XFxyXFxuICAgIGJhY2tncm91bmQtY29sb3I6cmVkO1xcclxcbn1cIl19XSk7XG4vLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IGV4cG9ydHM7XG4iXSwic291cmNlUm9vdCI6IiJ9

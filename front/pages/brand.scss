@@ -1,0 +1,67 @@
+.brand_main{
+    width:100%;
+    height:719px;
+    margin:0 auto;
+    background-image:url('/img/brand_main_img.png');
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.brand_content{
+    width:1200px;
+    height:1738px;
+    margin:0 auto;
+    position:relative;
+    img{
+        position:absolute;
+        &:nth-child(1){
+            top:108px;
+            left:127px;
+        }
+        &:nth-child(2){
+            top:194px;
+            left:647px;
+        }
+        &:nth-child(3){
+            top:264px;
+            left:127px;
+        }
+        &:nth-child(5){
+            top:492px;
+            left:908px;
+        }
+        &:nth-child(7){
+            top:933px;
+            left:147px;
+        }
+        &:nth-child(8){
+            top:989px;
+            left:527px;
+        }
+        &:nth-child(9){
+            top:1125px;
+            left:127px;
+        }
+        &:nth-child(10){
+            top:982px;
+            left:750px;
+        }
+        &:nth-child(11){
+            top:1593px;
+            left:768px;
+        }
+    }
+    .gray_zone{
+        width:700px;
+        height:800px;
+        background-color:#f3f3f3;
+        position:absolute;
+        top:393px;
+        z-index:-1;
+    }
+    iframe{
+        position:absolute;
+        top:514px;
+        left:623px;
+    }
+}
